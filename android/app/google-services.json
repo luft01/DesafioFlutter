@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388351733974",
+    "project_id": "testesilicon",
+    "storage_bucket": "testesilicon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388351733974:android:743a2ec5657da9b9371977",
+        "android_client_info": {
+          "package_name": "com.example.proj_teste_silicon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388351733974-1nvai7ft1iimmmff5fji9d118ctahuco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChnqaRHrAiikkATBFOmFRQK3TwrV74lFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388351733974-1nvai7ft1iimmmff5fji9d118ctahuco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
